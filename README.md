@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/coderjks/coderjks/output/snake.svg" alt="Snake animation" />
+
 
 ###
